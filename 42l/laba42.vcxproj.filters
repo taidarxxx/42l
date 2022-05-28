@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Исходные файлы">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Файлы заголовков">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\..\..\..\..\Инженерка\lesson_42-main\AntTweakBar.dll">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\..\..\..\Инженерка\lesson_42-main\AntTweakBar.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\Инженерка\lesson_42-main\lighting_technique.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\Инженерка\lesson_42-main\ogldev_app.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\Инженерка\lesson_42-main\ogldev_atb.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\Инженерка\lesson_42-main\ogldev_backend.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\Инженерка\lesson_42-main\ogldev_basic_mesh.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\Инженерка\lesson_42-main\ogldev_callbacks.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\Инженерка\lesson_42-main\ogldev_camera.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\Инженерка\lesson_42-main\ogldev_engine_common.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\Инженерка\lesson_42-main\ogldev_glfw_backend.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\Инженерка\lesson_42-main\ogldev_glut_backend.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\Инженерка\lesson_42-main\ogldev_keys.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\Инженерка\lesson_42-main\ogldev_lights_common.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\Инженерка\lesson_42-main\ogldev_math_3d.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\Инженерка\lesson_42-main\ogldev_pipeline.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\Инженерка\lesson_42-main\ogldev_texture.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\Инженерка\lesson_42-main\ogldev_types.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\Инженерка\lesson_42-main\ogldev_util.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\Инженерка\lesson_42-main\shadow_map_fbo.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\Инженерка\lesson_42-main\shadow_map_technique.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\..\Инженерка\lesson_42-main\technique.h">
+      <Filter>Файлы ресурсов</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="..\..\..\..\..\..\Инженерка\lesson_42-main\AntTweakBar.lib">
+      <Filter>Файлы ресурсов</Filter>
+    </Library>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\..\..\..\Инженерка\lesson_42-main\camera.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\Инженерка\lesson_42-main\glut_backend.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\Инженерка\lesson_42-main\lighting_technique.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\Инженерка\lesson_42-main\math_3d.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\Инженерка\lesson_42-main\ogldev_app.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\Инженерка\lesson_42-main\ogldev_atb.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\Инженерка\lesson_42-main\ogldev_backend.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\Инженерка\lesson_42-main\ogldev_basic_mesh.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\Инженерка\lesson_42-main\ogldev_glfw_backend.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\Инженерка\lesson_42-main\ogldev_texture.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\Инженерка\lesson_42-main\ogldev_util.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\Инженерка\lesson_42-main\pipeline.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\Инженерка\lesson_42-main\shadow_map_fbo.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\Инженерка\lesson_42-main\shadow_map_technique.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\Инженерка\lesson_42-main\technique.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\Инженерка\lesson_42-main\tutorial42.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
